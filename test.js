@@ -1,12 +1,21 @@
-let porcentajeDescuento = 0;
-let cantidadMillas = 40000;
+let contador = 1;
 
-if (cantidadMillas > 30000) {
-    porcentajeDescuento = 20;
-} else if (cantidadMillas > 5000) {
-    porcentajeDescuento = 10;
-} else {
-    porcentajeDescuento = 0;
+while (contador < 11) {
+    console.log(contador);
+    contador++;
 }
 
-console.log(porcentajeDescuento);
+let contador2 = 10;
+
+while (contador2 > -1) {
+    console.log(contador2);
+    contador2--;
+}
+
+let contador3 = 0;
+let numeroFinal = prompt("Hasta que número quieres contar?");
+
+while (contador3 < (numeroFinal+1)) {
+    console.log(contador3);
+    contador3++;
+}

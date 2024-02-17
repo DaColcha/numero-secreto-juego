@@ -3,4 +3,4 @@
 
 Juego creado con HTML, JavaScript y CSS con fines educativos. 
 
-[Intenta adivinar elnúmero!](https://dacolcha.github.io/numero-secreto-juego/)
+[Intenta adivinar el número!](https://dacolcha.github.io/numero-secreto-juego/)
